@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 10 minutes**.
 
+## maybe today we figure it out
+
 ## Getting Started
 
 Get started by **creating a new site**.
