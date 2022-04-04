@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'sfspot2020', // Usually your GitHub org/user name.
   projectName: 'docutest', // Usually your repo name.
+  USE_SSH: true,
 
   presets: [
     [
